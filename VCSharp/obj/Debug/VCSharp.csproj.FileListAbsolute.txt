@@ -1,0 +1,6 @@
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\bin\Debug\VCSharp.exe.config
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\bin\Debug\VCSharp.exe
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\bin\Debug\VCSharp.pdb
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\obj\Debug\VCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\obj\Debug\VCSharp.exe
+C:\Users\Desktop\Desktop\VCSharp\VCSharp\obj\Debug\VCSharp.pdb
